@@ -34,7 +34,7 @@ The classifier uses **sentence-level** context. The first masking implementation
 
 ## Environment and commands
 
-Developed with Python 3.11, CUDA-enabled PyTorch, Hugging Face Transformers, and scikit-learn on Windows with an NVIDIA RTX 4080 Laptop GPU. Run the commands below from the repository root after installing these packages.
+Developed with Python 3.11, CUDA-enabled PyTorch, Hugging Face Transformers, and scikit-learn. Run the commands below from the repository root after installing these packages.
 
 Inspect and preprocess:
 
